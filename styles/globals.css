@@ -40,6 +40,17 @@
   --card-border-rgb: 131, 134, 135;
 }
 
+.caja1{
+  height: 248px;
+  width: 600px;
+  background: yellow;
+    
+  position:absolute;
+  top:-200px;
+  bottom: px;
+  right:150px ;
+  left:px;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;

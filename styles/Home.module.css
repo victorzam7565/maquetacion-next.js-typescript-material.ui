@@ -7,6 +7,27 @@
   min-height: 100vh;
 }
 
+.caja1{
+  height: 248px;
+  width: 600px;
+  background: yellow;
+    
+  position:absolute;
+  top:-200px;
+  bottom: px;
+  right:px ;
+  left:px;
+     }
+
+
+
+
+
+
+
+
+
+
 .description {
   display: inherit;
   justify-content: inherit;
